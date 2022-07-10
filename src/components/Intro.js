@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 import {motion} from 'framer-motion'
-import Me from '../assets/Images/profile-img.png'
+import Me from '../assets/Images/profile-img-removebg-preview.png'
 
 
 const Box = styled(motion.div)`
@@ -80,8 +80,8 @@ const Intro = () => {
             <SubBox>
                 <Text>
                     <h1>Hi,</h1>
-                    <h3>I'm CodeBucks.</h3>
-                    <h6>I design and Code simple yet beautiful websites.</h6>
+                    <h3>I'm Anushika.</h3>
+                    <h6>I design and code simple yet beautiful websites.</h6>
                 </Text>
             </SubBox>
             <SubBox>

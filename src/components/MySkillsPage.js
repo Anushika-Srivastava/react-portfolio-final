@@ -102,7 +102,7 @@ I love to create design which speaks, Keep it clean, minimal and simple.
 <strong>I like to Design</strong>
 <ul>
     <li>
-        Web Design
+        Websites
     </li>
     <li>
         Mobile Apps
@@ -125,18 +125,18 @@ I love to create design which speaks, Keep it clean, minimal and simple.
     <Develope width={40} height={40} /> Frontend Developer
 </Title>
 <Description>
-I value business or brand for which i'm creating, thus i enjoy bringing new ideas to life.
+I like creating new things and bringing new ideas to life.
 </Description>
 <Description>
 <strong>Skills</strong>
 <p>
-Html, Css, Js, React, Redux, Sass, Bootstrap, Tailwind, Firebase etc.
+Html, Css, Js, React, Bootstrap, etc.
 </p>
 </Description>
 <Description>
 <strong>Tools</strong>
 <p>
-VScode, Github, Codepen etc.
+VScode, Github, etc.
 </p>
 </Description>
 
